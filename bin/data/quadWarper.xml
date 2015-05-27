@@ -1,0 +1,18 @@
+<quad>
+	<upperLeft>
+		<x>0.16875</x>
+		<y>0.036667</y>
+	</upperLeft>
+	<upperRight>
+		<x>1</x>
+		<y>0</y>
+	</upperRight>
+	<lowerRight>
+		<x>0.824818</x>
+		<y>0.998466</y>
+	</lowerRight>
+	<lowerLeft>
+		<x>0.180049</x>
+		<y>0.978528</y>
+	</lowerLeft>
+</quad>
